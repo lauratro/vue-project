@@ -12,6 +12,7 @@ body {
 #app {
   width: 400px;
   height: 100vh;
+  color: red;
   margin: auto;
   text-align: center;
   display: flex;

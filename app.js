@@ -1,5 +1,5 @@
 const app = Vue.createApp({
-  template: "<h1>Hello {{first}}</h1>", //double curly brackets
+  template: "<h1>Hello {{firstname}}</h1>",
   data() {
     return {
       firstname: "John",
